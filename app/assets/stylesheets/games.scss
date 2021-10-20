@@ -8,9 +8,12 @@ body {
 
 ul {
   padding-left: 0px !important;
+  display: flex;
 }
 
 li {
+  width: 10%;
+  text-align: center;
   display: inline-block;
   background-color: #3498dc;
   color: white;
